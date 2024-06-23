@@ -18,7 +18,7 @@ Java Database Connectivity (JDBC) is a Java-based API used to connect to and exe
 There are two main types of statements in JDBC:
 1. **Statements**: Used for executing static SQL queries.
 2. **Prepared Statements**: Used for executing precompiled SQL queries with parameters, offering better performance and security.
-
+3. **Callable Statement**: Used to call a stored procedures and functions.
 ## Setup
 
 ### Prerequisites
