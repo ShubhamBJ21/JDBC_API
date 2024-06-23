@@ -8,7 +8,7 @@ This repository contains examples demonstrating the use of Java Database Connect
 - [Setup](#setup)
 - [JDBC Statements](#jdbc-statements)
 - [JDBC Prepared Statements](#jdbc-prepared-statements)
-- [JDBC Callable Statements](#jdbc-prepared-statements)
+- [JDBC Callable Statements](#jdbc-callable-statements)
 - [Running the Examples](#running-the-examples)
 
 ## Overview
