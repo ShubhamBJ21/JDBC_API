@@ -1,6 +1,6 @@
 # JDBC API Examples
 
-This repository contains examples demonstrating the use of Java Database Connectivity (JDBC) with Statements and Prepared Statements. JDBC is an API that enables Java applications to interact with 
+This repository contains examples demonstrating the use of Java Database Connectivity (JDBC) with Statements and Prepared Statements. JDBC is an API that enables Java applications to interact with databases.
 
 ## Table of Contents
 
